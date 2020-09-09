@@ -1,2 +1,2 @@
 # CP-Argentina
-Base de datos de códigos postales de Argentina actualizada al 3/8/2020.
+Base de datos de todas las localidades de Argentina con sus respectivos códigos postales- actualizada al 3/8/2020.
